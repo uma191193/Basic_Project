@@ -1,4 +1,4 @@
-package org.basic;
+package org.basic.model;
 
 public class MyThread extends Thread {
 

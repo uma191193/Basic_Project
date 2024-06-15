@@ -1,4 +1,4 @@
-package org.basic;
+package org.basic.model;
 
 public class MyRunnable implements Runnable {
     public void run() {

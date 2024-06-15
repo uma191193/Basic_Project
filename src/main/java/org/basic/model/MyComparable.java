@@ -1,4 +1,4 @@
-package org.basic;
+package org.basic.model;
 
 public class MyComparable implements Comparable<Integer> {
     @Override
